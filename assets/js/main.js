@@ -35,6 +35,16 @@ var panos = [
 		"title": "StoneArcs",		
 		"overlay": "skyrim-overlay.png",
 		"image": "stone-arcs.jpg",
+	},
+	{
+		"title": "Pile",		
+		"overlay": "skyrim-overlay.png",
+		"image": "pile.jpg",
+	},
+	{
+		"title": "Riften",		
+		"overlay": "skyrim-overlay.png",
+		"image": "riften.jpg",
 	}
 ];
 
