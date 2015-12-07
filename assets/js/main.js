@@ -244,8 +244,6 @@ function setupScene() {
 }
 
 function onkey( event ) {
-	console.log(panos.length)
-	console.log(counter)
 	if ( event.keyCode == '90' ) {
 		controls.zeroSensor();
 	} else if ( event.keyCode == '37' ) {
